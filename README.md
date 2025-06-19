@@ -1,4 +1,4 @@
-
+```bash
          "   '|'˜¨¯¨'˜¯\/'˜¨¯¨'˜˜¨¯'\‚        |\˜¨¯¨˜'\ '                       '|\˜¨¯¨˜\‚   |˜¨¯¨˜'|°               '|\˜¨¯¨˜'\‚   \˜¨¯¨˜'\      /˜¨¯¨˜'/'
    /             '/|\       \'‚ |˜¨¯¨˜'|\      '\'‚               '/˜¨¯¨˜'/\      \  |      |    '       |˜¨¯¨˜'|\      \'   '\      '\   /      /
   '|      '|\    '/ / |       |  |      | |      '|                |      '| '|      '|°|      '|           |      |/¸_¸_¸/|'    \¸_¸_¸\/¸_¸_¸/
@@ -19,6 +19,8 @@
     ║ Telegram   : @alex                                     ║
     ║ Donate     : Chat with me on Telegram!                 ║
     ╚════════════════════════════════════════════════════════╝
+
+```
 tools ini saya buat dengan nama brutcell, yang bertujuan untuk menebak password dari file excel yang terkunci secara otomatis memakai bahasa pemograman python.
 
 keunggulan dari tools ini:
