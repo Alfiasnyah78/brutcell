@@ -1,0 +1,4 @@
+msoffcrypto-tool==5.4.2
+rich==13.4.2
+tqdm==4.65.0
+openpyxl
